@@ -1,0 +1,10 @@
+h2.subheader Application Homepage
+.row
+  .large-5.columns
+    h1.subheader Satelites
+    linkTo 'index' class='button tiny' | Home
+    linkTo 'about' class='button tiny' | About
+    linkTo 'faq' class='button tiny' | FAQ
+    linkTo 'planets' class='button tiny' | Planet
+    outlet
+  .large-7.columns

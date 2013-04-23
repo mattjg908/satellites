@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "",
+  "sourceRoot": "",
+  "sources": [
+    "/assets/source_maps/app/assets/javascripts/controllers/satelites_new_controller.coffee"
+  ],
+  "names": [],
+  "mappings": "AAAA;CAAA,CAAA,CAAG,EAA+B,CAAL,UAAsB,MAAnD;CACE,CAAO,EAAP,CAAA,QAAO;CAAP,CACQ,CAAA,CAAR,EAAA,GAAQ;CACN,CAAoD,CAApD,CAAC,CAAD,CAAA,CAAA,MAAA;CACC,GAAA,SAAD,EAAA,EAAA;CAHF,IACQ;CADR,CAIM,CAAA,CAAN,KAAM;CACJ,OAAA,EAAA;;CAAY,EAAD,CAAC,IAAZ,CAAW,IAAX;CALF,IAIM;CAEL,CAAD,CAAA,CAP2B,CAQ3B,CACA,CADA,CADA,EAAA,CAAA,EAAA,EAGA,EAAA;CAVF"
+}

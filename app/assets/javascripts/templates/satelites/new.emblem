@@ -1,0 +1,8 @@
+h1 new satelite
+Ember.TextField valueBinding='name'
+Ember.TextField valueBinding='image'
+Ember.TextField valueBinding='distance'
+Ember.TextField valueBinding='diameter'
+Ember.TextField valueBinding='period'
+button{action save} Save
+button{action cancel} Cancel

@@ -1,0 +1,8 @@
+h4.subheader Planets
+linkTo 'planets.new' class='button tiny raidus success' | New Planet
+table
+  tr
+    td
+      partial 'planets/list'
+    td
+      outlet

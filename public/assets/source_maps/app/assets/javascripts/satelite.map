@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "",
+  "sourceRoot": "",
+  "sources": [
+    "/assets/source_maps/app/assets/javascripts/satelite.coffee"
+  ],
+  "names": [],
+  "mappings": "AAAA;CAAA,CAAA,CAAA,EAAkB,CAAZ,KAAwB;CAC5B,CAAiB,EAAjB,WAAA;CADF,GAAa;;CAAb,CAGA,CAAG,GAAO,GAAK;CACb,GAAA,CAAA,EAAA;CAAA,GACA,CAAA;CACC,CAAoB,CAAA,CAApB,IAAD,CAAA,EAAA;CACE,GAAC,CAAD,CAAA;CACC,CAAc,EAAd,CAAD,CAAA,OAAA;CAAe,CAAO,EAAN,IAAA,IAAD;CAFI,OAEnB;CAFF,IAAqB;CAHvB,EAAe;;CAHf,CAUA,CAAG,EAAH,CAAY;CACV,CAAU,EAAV,IAAA;CAXF,GAUY;CAVZ"
+}

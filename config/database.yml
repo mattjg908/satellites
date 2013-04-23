@@ -1,0 +1,21 @@
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: satelite_ember_dev
+  pool: 5
+  username: matt
+  password:
+test:
+  adapter: postgresql
+  encoding: unicode
+  database: satelite_ember_test
+  pool: 5
+  username: matt
+  password:
+production:
+  adapter: postgresql
+  encoding: unicode
+  database: satelite_ember_pro
+  pool: 5
+  username: matt
+  password:

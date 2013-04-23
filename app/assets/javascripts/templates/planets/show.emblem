@@ -1,0 +1,22 @@
+if isNew
+  render 'satelites/new'
+else
+  button{action newSatelite} class='button tiny radius success' New Satelite
+
+
+table
+  tr
+    th Name
+    th Image
+    th Period
+    th Distance
+    th Diameter
+    th Radius
+  each satelite in satelites
+    tr
+      td: satelite.name
+      td: img src=satelite.image
+      td: satelite.period
+      td: satelite.distance
+      td: satelite.diameter
+      td: satelite.radius
